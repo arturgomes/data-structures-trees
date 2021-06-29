@@ -1,3 +1,10 @@
+/**
+ * Nome:
+ * RGA:
+ * email:
+ * Data de criação:
+ */
+
 class Node {
     //...
 }
